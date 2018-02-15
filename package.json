@@ -8,8 +8,7 @@
     "nodemon": "nodemon -e js,html,json,css,pug"
   },
   "dependencies": {
-    "express": "^4.16.2",
-    "pug": "^2.0.0-rc.4"
+    "express": "^4.16.2"
   },
   "engines": {
     "node": "8.x"
